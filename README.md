@@ -6,31 +6,6 @@
 
 This repository documents my learning journey in C# and .NET development, with a collection of projects demonstrating progressive skill development.
 
-## 📂 Project Index
-
-```csharp
-// Projects organized by complexity level
-namespace MyLearningJourney
-{
-    class Portfolio
-    {
-        // Level 1: Core Concepts
-        string[] BasicProjects = new string[] 
-        {
-            "Polymorphism-Assignment",
-            "Operators-Assignment",
-            "Method-Class-Assignment"
-        };
-        
-        // Level 2: Advanced Applications
-        string[] AdvancedProjects = new string[] 
-        {
-            "ASP.NET-MVC-Entity-Framework",
-            "Final-Assignment"
-        };
-    }
-}
-```
 
 ## 🔍 Project Details
 
